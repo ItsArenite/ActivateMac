@@ -11,6 +11,7 @@ Go to the realeases page and install the newest one.
 Move it to your applications folder and run it.
 You can end the task by opening your activity monitor
 ## Demo
+<img width="353" alt="image" src="https://github.com/ItsArenite/ActivateMac/assets/79773586/19f2ee18-f0c9-4dc6-9cd5-87bef1828dd5">
 
 When you successfully install the app, you will be able to launch "Activate" from your Launchpad. 
 
