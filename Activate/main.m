@@ -205,7 +205,7 @@
         CGFloat decisionWidth =
         MAX(firstLineRect.size.width, secondLineRect.size.width);
         
-        CGFloat xPosition = self.bounds.size.width - 125 - decisionWidth;  // padding to right 125
+        CGFloat xPosition = self.bounds.size.width - 50 - decisionWidth;  // padding to right 125
         [firstLine drawAtPoint:CGPointMake(xPosition, 134)];
         [secondLine drawAtPoint:CGPointMake(xPosition, 116)];
     }
